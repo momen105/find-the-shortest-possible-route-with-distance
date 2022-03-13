@@ -1,10 +1,10 @@
 # find-the-shortest-possible-route-with-distance
-|       | Rabat | Sueca | Rudow | Mosu |
-| ----- | ----- | ----- | ----- |----- |
+|       | Rabat | Sueca | Rudow | Mosu | Le Plessis Trevise |
+| ----- | ----- | ----- | ----- |----- | ------------------ |
 | Rabat |   ∞   | 1063  |       |      |
 | Sueca |       |  ∞    | 2656  |      |
 | Rudow |       |       |       | 1352 | 
-| Mosu  |
+| Mosu  |       |       |       |      | 1841 |
 | Le Plessis Trevise |
 |Kang Dong|
 |Nezahualcóyotl|
