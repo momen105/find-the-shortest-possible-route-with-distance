@@ -17,10 +17,11 @@ Let, Rabat = A, Sueca = B, Rudow = C, Mosu = D, Le Plessis Trevise = E, Kang Don
         |                                                                                                                           |   
         S <----244----- R <----105---- Q <----63---- P <----6999---- O <----97---- N <----2524---- M <----2547---- L <----380------ k
                     
-                                                                                                                                                                                    ---> This graph is a  Hamiltonian circuits. Circuit that visits every vertex once with no repeats. Being a circuit, it start and end at the same vertex.
+                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                        
+ ---> This graph is a  Hamiltonian circuits. Circuit that visits every vertex once with no repeats. Being a circuit, it start and end at the same vertex.
                                                                                                                                                                                     ---> Also This graph is cyclic. Whatever we consider the starting point the distance will be same and return a single route
                                                                                                                                                                                     ---> I consider A as starting point. 
                                                                                                                                                                                              path : A - B - C - D - E - F - G - H - I - J - K - L - M - N - O - P - Q - R - T - A 
                                                                                                                                                                                              total Distance: 22721
-                                                                                                                                                                                             
-                                                                                                                                        
+                                  
